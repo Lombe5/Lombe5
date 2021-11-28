@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Lombe5
-- 👀 I’m interested in Computer programming
+- 👋 Hi, I’m @Lombe Simakando, a student.
+- 👀 I’m interested in Computers
 - 🌱 I’m currently learning C++, python and some html
 - 💞️ I’m looking to collaborate on a project with someone who's experienced or as knowledge about other languages 
 - 📫 you can send me an email using :lombeicloud@gmail.com
